@@ -17,10 +17,7 @@ I've been working on mostly .NET Framework API's, but I also make my personal pr
 <br>
 
 <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=teuso99&theme=transparent" />
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=teuso99&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-    </a>
+<a href="https://github.com/teuso99">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuso99&layout=compact&langs_count=7&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=teuso99&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
